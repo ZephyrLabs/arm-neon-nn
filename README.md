@@ -3,7 +3,7 @@
 Simple neural network microkernels in C accelerated with ARMv8.2-a Neon vector intrinsics.
 
 Examples:
-* [sine_model](./src/sine_model/), multiple dense layers with ReLU activation layers in between, approximates the value of sin(x).
+* [sine_model](./sine_model/), multiple dense layers with ReLU activation layers in between, approximates the value of sin(x).
 
 ### Why these microkernels ?
 If you are looking to deploy lightweight ML models, or maybe just need optimized ways to process large 
